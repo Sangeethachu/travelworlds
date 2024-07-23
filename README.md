@@ -24,7 +24,6 @@ Welcome to **Travel Worlds**, your ultimate destination for exploring the world!
 - **JavaScript:** For interactive elements and dynamic content.
 - **Bootstrap:** For responsive design and layout.
 - **Font Awesome:** For scalable vector icons.
-- **Google Maps API:** For interactive map features.
 
 ## Contact
 
